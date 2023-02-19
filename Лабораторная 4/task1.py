@@ -235,3 +235,4 @@ if __name__ == "__main__":
     first_plant = Araucaria(1, 2, 4, False)
     second_plant = Fittonia(2, 1, 3, True)
     print(based_plant, first_plant, second_plant, sep='\n')'''
+    
