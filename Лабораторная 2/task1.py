@@ -43,4 +43,3 @@ if __name__ == '__main__':
         print(book)  # проверяем метод __str__
     print(list_books)  # проверяем метод __repr__
 
-
